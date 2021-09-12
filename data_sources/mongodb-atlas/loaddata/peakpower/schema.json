@@ -1,0 +1,30 @@
+{
+    "properties": {
+        "1": {
+            "bsonType": "object",
+            "properties": {
+                "customername": {
+                    "bsonType": "string"
+                },
+                "peakpower": {
+                    "bsonType": "int"
+                }
+            }
+        },
+        "2": {
+            "bsonType": "object",
+            "properties": {
+                "customername": {
+                    "bsonType": "string"
+                },
+                "peakpower": {
+                    "bsonType": "int"
+                }
+            }
+        },
+        "_id": {
+            "bsonType": "objectId"
+        }
+    },
+    "title": "peakpower"
+}
